@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286654736983",
+    "project_id": "imageupload-723a3",
+    "storage_bucket": "imageupload-723a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286654736983:android:c20391d6a00fee2cc69112",
+        "android_client_info": {
+          "package_name": "com.example.imageuploadfirebaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286654736983-l09cvpdp4kf2sp4ehjid0jn3dc33mshc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKlwuXPWci14eTU8owFjODh9Jmr35gPBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286654736983-l09cvpdp4kf2sp4ehjid0jn3dc33mshc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
